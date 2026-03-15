@@ -36,5 +36,3 @@ A small Rust CLI that connects to Discord’s Gateway over WebSockets and collec
 
 5. **Results**  
    Open `results.txt` for the scraped users and their badges.
-
-> Don’t share `config.json` — it contains your token.
