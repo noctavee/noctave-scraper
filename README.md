@@ -12,8 +12,8 @@ A small Rust CLI that connects to Discord’s Gateway over WebSockets and collec
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/guerds/guerds-scraper.git
-   cd guerds-scraper
+   git clone https://github.com/Phaverhoek/phaverhoek-scraper.git
+   cd phaverhoek-scraper
    ```
 
 2. **Install Rust** (if needed): [rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
